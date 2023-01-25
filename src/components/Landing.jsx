@@ -11,7 +11,7 @@ import UndrawBooks from '../assets/Undraw_Books.svg'
                 <div className="header__description">
                     <h1>Tunisia's most awarded online library platform</h1>
                     <h2>Find your dream book with <span className='purple'>Library</span></h2>
-                    <Link to="#features">
+                    <Link to="/books">
                         <button className='btn'>Browse books</button>
                     </Link>
                 </div>
